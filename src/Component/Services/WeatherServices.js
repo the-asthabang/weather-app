@@ -1,4 +1,3 @@
-// src/api/weatherService.js
 import { DateTime } from 'luxon';
 
 const API_KEY = '3ed60efc052d0781c17d915df0dd480e';
